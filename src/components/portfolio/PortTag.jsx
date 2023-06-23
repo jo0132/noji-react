@@ -8,7 +8,7 @@ const PortTag = () => {
           <Link to="/">기욤뮈소</Link>
         </li>
         <li>
-          <Link to="/"></Link>
+          <Link to="/">베르나르베르베르</Link>
         </li>
         <li>
           <Link to="/">j.k롤링</Link>
