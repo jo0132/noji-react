@@ -21,29 +21,29 @@
         width: 200px;
         height: 48px;
         border-radius: 50px;
-        background-color: #e9eeff;
-        border: 1px solid #2250c5;
+        background-color: #ffeddd;
+        border: 1px solid #f0831e;
         padding: 7px;
         margin-right: 10px;
-        color: #2250c5;
+        color: #f0831e;
         font-size: 20px;
         &.active {
           display: inline-block;
           width: 200px;
           height: 48px;
           border-radius: 50px;
-          background-color: #b7cbfd;
-          border: 1px solid #092d88;
+          background-color: #ffd9b5;
+          border: 1px solid #b35e0f;
           padding: 7px;
-          color: #2250c5;
+          color: #f0831e;
         }
         &:hover {
           display: inline-block;
           width: 200px;
           height: 48px;
           border-radius: 50px;
-          background-color: #2250c5;
-          border: 1px solid #092d88;
+          background-color: #f0831e;
+          border: 1px solid #b35e0f;
           padding: 7px;
           color: #fff;
         }

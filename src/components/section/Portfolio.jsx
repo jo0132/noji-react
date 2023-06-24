@@ -18,15 +18,12 @@ const Portfolio = (props) => {
             <li>
               <Link to="/">j.k롤링</Link>
             </li>
-            <li>
-              <Link to="/">히가시노 게이고</Link>
-            </li>
           </ul>
         </div>
         <div className="port__cont">
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book01.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소01.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -43,7 +40,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book02.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소02.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -60,7 +57,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book03.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소03.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -77,7 +74,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book04.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소04.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -91,7 +88,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book05.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소05.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -105,7 +102,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/book06.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소06.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>

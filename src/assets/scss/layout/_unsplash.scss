@@ -67,7 +67,7 @@
     margin-right: 10px;
   }
   button {
-    @include button(#0d9900, #fff);
+    @include button(#f0831e, #fff);
     border-radius: 50px; //bdrs
   }
 }
@@ -79,14 +79,14 @@
     margin-top: 100px;
     margin-bottom: 60px;
     button {
-      border: 1px solid #0d9900;
+      border: 1px solid #f0831e;
       padding: 10px 20px;
       margin: 0 10px;
-      color: #0d9900;
+      color: #f0831e;
       border-radius: 50px;
     }
     :hover {
-      background-color: #0d9900;
+      background-color: #f0831e;
       color: #fff;
     }
   }

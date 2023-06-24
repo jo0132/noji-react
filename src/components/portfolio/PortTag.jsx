@@ -13,9 +13,6 @@ const PortTag = () => {
         <li>
           <Link to="/">j.k롤링</Link>
         </li>
-        <li>
-          <Link to="/">히가시노 게이고</Link>
-        </li>
       </ul>
     </div>
   );

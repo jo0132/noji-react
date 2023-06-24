@@ -16,8 +16,13 @@ const MovieImg = ({ movie }) => {
           alt={movie.title}
         />
       </a>
-      <div className="desc">
-        <h1>{movie.title}</h1>
+      <div className="desc Rebecca">
+        {movie.original_title ? (
+          <h1>{movie.original_title}</h1>
+        ) : (
+          <h1>{movie.original_name}</h1>
+        )}
+        <p className="SeoulHangang3">{movie.overview}</p>
       </div>
     </div>
   );
@@ -29,7 +34,7 @@ const MovieSlider = ({ movies }) => {
     <div className="movie__slider">
       <Swiper
         autoplay={{
-          delay: 2000,
+          delay: 4000,
           disableOnInteraction: true,
         }}
         spaceBetween={30}

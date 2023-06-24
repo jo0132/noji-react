@@ -7,7 +7,7 @@ import PortCont from "../portfolio/PortCont";
 const PortPage = () => {
   return (
     <Contents>
-      <ContTitle title="portfolio" />
+      <ContTitle title="fiction" />
       <PortTag />
       <PortCont />
     </Contents>
