@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 const Portfolio = (props) => {
   return (
@@ -7,19 +6,6 @@ const Portfolio = (props) => {
       <h3>한국인이 좋아하는 외국소설</h3>
       <p>그동안 한국인들이 좋아하는 외국 소설입니다.</p>
       <div className="port__inner container">
-        <div className="port__btn">
-          <ul>
-            <li className="active">
-              <Link to="/">기욤뮈소</Link>
-            </li>
-            <li>
-              <Link to="/">베르나르베르베르</Link>
-            </li>
-            <li>
-              <Link to="/">j.k롤링</Link>
-            </li>
-          </ul>
-        </div>
         <div className="port__cont">
           <div className="port">
             <figure className="port__header">
