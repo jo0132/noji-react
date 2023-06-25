@@ -13,57 +13,6 @@ const Portfolio = (props) => {
             </figure>
             <div className="port__body">
               <div>
-                <img
-                  src="./assets/images/Member/peep-27-1.svg"
-                  alt="멤버사진1"
-                />
-              </div>
-              <div>
-                <h4>고양이</h4>
-                <p>베르나르 베르베르</p>
-              </div>
-            </div>
-          </div>
-          <div className="port">
-            <figure className="port__header">
-              <img src="./assets/images/port/기욤뮈소02.png" alt="포폴사진" />
-            </figure>
-            <div className="port__body">
-              <div>
-                <img
-                  src="./assets/images/Member/peep-27-1.svg"
-                  alt="멤버사진1"
-                />
-              </div>
-              <div>
-                <h4>파피용</h4>
-                <p>베르나르 베르베르</p>
-              </div>
-            </div>
-          </div>
-          <div className="port">
-            <figure className="port__header">
-              <img src="./assets/images/port/기욤뮈소03.png" alt="포폴사진" />
-            </figure>
-            <div className="port__body">
-              <div>
-                <img
-                  src="./assets/images/Member/peep-27-1.svg"
-                  alt="멤버사진1"
-                />
-              </div>
-              <div>
-                <h4>제3인류</h4>
-                <p>베르나르 베르베르</p>
-              </div>
-            </div>
-          </div>
-          <div className="port">
-            <figure className="port__header">
-              <img src="./assets/images/port/기욤뮈소04.png" alt="포폴사진" />
-            </figure>
-            <div className="port__body">
-              <div>
                 <img src="./assets/images/Member/peep-54.svg" alt="멤버사진1" />
               </div>
               <div>
@@ -74,7 +23,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/기욤뮈소05.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소02.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -88,7 +37,7 @@ const Portfolio = (props) => {
           </div>
           <div className="port">
             <figure className="port__header">
-              <img src="./assets/images/port/기욤뮈소06.png" alt="포폴사진" />
+              <img src="./assets/images/port/기욤뮈소03.png" alt="포폴사진" />
             </figure>
             <div className="port__body">
               <div>
@@ -96,6 +45,48 @@ const Portfolio = (props) => {
               </div>
               <div>
                 <h4>센 강의 이름모를 여인</h4>
+                <p>기욤 뮈소</p>
+              </div>
+            </div>
+          </div>
+          <div className="port">
+            <figure className="port__header">
+              <img src="./assets/images/port/기욤뮈소04.png" alt="포폴사진" />
+            </figure>
+            <div className="port__body">
+              <div>
+                <img src="./assets/images/Member/peep-54.svg" alt="멤버사진1" />
+              </div>
+              <div>
+                <h4>종이 여자</h4>
+                <p>기욤 뮈소</p>
+              </div>
+            </div>
+          </div>
+          <div className="port">
+            <figure className="port__header">
+              <img src="./assets/images/port/기욤뮈소05.png" alt="포폴사진" />
+            </figure>
+            <div className="port__body">
+              <div>
+                <img src="./assets/images/Member/peep-54.svg" alt="멤버사진1" />
+              </div>
+              <div>
+                <h4>안젤리크</h4>
+                <p>기욤 뮈소</p>
+              </div>
+            </div>
+          </div>
+          <div className="port">
+            <figure className="port__header">
+              <img src="./assets/images/port/기욤뮈소06.png" alt="포폴사진" />
+            </figure>
+            <div className="port__body">
+              <div>
+                <img src="./assets/images/Member/peep-54.svg" alt="멤버사진1" />
+              </div>
+              <div>
+                <h4>작가들의 비밀스러운 삶</h4>
                 <p>기욤 뮈소</p>
               </div>
             </div>
